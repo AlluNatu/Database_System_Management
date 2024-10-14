@@ -52,7 +52,7 @@ Your task is to do the following:
 
 
 
-
+![image]([https://github.com/AlluNatu/DataBase_Project/assets/128405938/4d8dd2b4-366c-4561-bc95-f2999abbc515](https://github.com/AlluNatu/Database_System_Management_Project/blob/main/project%20erd.png?raw=true))
 ERD from PostgreSQL
 
 
