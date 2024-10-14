@@ -1,8 +1,12 @@
 # Database_System_Management project
 
-
 ## Description
-  ### Project task
+This is a project made for my  CT60A7650 Database Systems Management course. From this project we got graded 50/50. The project is meant to be practice of upkeeping a database without any prior knowledge of it before. How we managed to upkeep it was by adding different triggers, functions, procedures, views, etc..
+
+### All sql queries and changes made for this project, can and will be found in Document file.
+
+
+## Project task
 You have been given a database to manage. The database contains data of customers, projects, employees, user groups and roles.  You can see the ERD of the database below.
 
 Your task is to do the following:
